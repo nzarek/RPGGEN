@@ -1,0 +1,26 @@
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\Zarek_FinalProject.exe.config
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\Zarek_FinalProject.exe
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\Zarek_FinalProject.pdb
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_FinalProject\Zarek_FinalProject\obj\Debug\Zarek_FinalProject.csprojResolveAssemblyReference.cache
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_FinalProject\Zarek_FinalProject\obj\Debug\Zarek_FinalProject.exe
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_FinalProject\Zarek_FinalProject\obj\Debug\Zarek_FinalProject.pdb
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\ZarekFinalDB.mdf
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\ZarekFinalDB_log.ldf
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\ZarekFinalDB.mdf
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\ZarekFinalDB_log.ldf
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\Zarek_FinalProject.exe.config
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\Zarek_FinalProject.exe
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\Zarek_FinalProject.pdb
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\obj\Debug\Zarek_FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\obj\Debug\Zarek_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\obj\Debug\Zarek_FinalProject.exe
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\obj\Debug\Zarek_FinalProject.pdb
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\ZarekFinalDB.mdf
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\ZarekFinalDB_log.ldf
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\Zarek_FinalProject.exe.config
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\Zarek_FinalProject.exe
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\bin\Debug\Zarek_FinalProject.pdb
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\obj\Debug\Zarek_FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\obj\Debug\Zarek_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\obj\Debug\Zarek_FinalProject.exe
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_FinalProject\Zarek_FinalProject\Zarek_FinalProject\obj\Debug\Zarek_FinalProject.pdb
